@@ -1,4 +1,4 @@
-FROM andrewn/librespot:0.4.2-pulseaudio
+FROM giof71/librespot:stable
 
 ENV PULSE_SERVER=tcp:localhost:4317
 
